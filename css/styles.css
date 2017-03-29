@@ -1,0 +1,14 @@
+#jumbo_bg  h1{
+  padding-top: 150px;
+
+}
+.jumbotron {
+  background-image: url("http://dbwebworks.ie/sites/default/files/freecodecamp/images/sunset.jpg" );
+  background-repeat: no-repeat;
+  background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

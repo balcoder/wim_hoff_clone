@@ -1,9 +1,12 @@
 #jumbo_bg  h1{
   padding-top: 150px;
+  font-size: 5em;
+  font-weight: 600;
+  color: #003745;
 
 }
 .jumbotron {
-  background-image: url("http://dbwebworks.ie/sites/default/files/freecodecamp/images/sunset.jpg" );
+  background-image: url("../css/images/panice.jpg");
   background-repeat: no-repeat;
   background-position: center center;
     background-attachment: fixed;
@@ -11,4 +14,8 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+#jumbo_bg .btn {
+  background-color: #003745;
+  
 }
